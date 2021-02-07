@@ -1,0 +1,12 @@
+=== Get Product By Id
+Obtains  messages by owner and contact.
+
+==== Sample Request
+include::{snippets}/http-request.adoc[]
+
+==== Sample Response
+include::{snippets}/http-response.adoc[]
+
+==== CURL sample
+include::{snippets}/curl-request.adoc[]
+
